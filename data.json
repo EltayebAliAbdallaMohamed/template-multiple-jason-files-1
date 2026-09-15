@@ -1,0 +1,743 @@
+
+
+[ 
+    {
+    "text": "Does Al Jaser have a campus?",
+    "arabic": "هل لدى الجاسر حرم جامعي؟",
+    "image": "",
+    "audio": "audio/Does Al Jaser have a campus.mp3",
+    "audioScript": "Does Al Jaser have a campus?",
+    "arabicScript": "هل لدى الجاسر حرم جامعي؟"
+  }, 
+  {
+    "text": "No, we don’t have a campus.",
+    "arabic": "لا، ليس لدينا حرم جامعي",
+    "image": "",
+    "audio": "audio/No, we don’t have a campus.mp3",
+    "audioScript": "No, we don’t have a campus.",
+    "arabicScript": "No, we don’t have a campus."
+  }, 
+ 
+
+{
+    "text": "campus",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "campus",
+    "arabicScript": ""
+  }, 
+    {
+    "text": "the building of a university or college and the land around them.",
+    "arabic": "حرم جامعي",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "the building of a university or college and the land around them.",
+    "arabicScript": "حرم جامعي"
+  }, 
+   {
+    "text": "Does Al Jaser have a campus?",
+    "arabic": "هل لدى الجاسر حرم جامعي؟",
+    "image": "",
+    "audio": "audio/Does Al Jaser have a campus.mp3",
+    "audioScript": "Does Al Jaser have a campus?",
+    "arabicScript": "هل لدى الجاسر حرم جامعي؟"
+  }, 
+  {
+    "text": "No, we don’t have a campus.",
+    "arabic": "لا، ليس لدينا حرم جامعي",
+    "image": "",
+    "audio": "audio/No, we don’t have a campus.mp3",
+    "audioScript": "No, we don’t have a campus.",
+    "arabicScript": "No, we don’t have a campus."
+  }, 
+ 
+  {
+    "text": "But we do have a really great community.",
+    "arabic": "لكن لدينا مجتمع رائع حقًا",
+    "image": "",
+    "audio": "audio/But we do have a really great community.mp3",
+    "audioScript": "But we do have a really great community",
+    "arabicScript": "لكن لدينا مجتمع رائع حقًا"
+  }, 
+  {
+    "text": "community",
+    "arabic": "مجتمع",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "community",
+    "arabicScript": "مجتمع"
+  }, 
+  {
+    "text": "all the people who live in a place",
+    "arabic": "جميع الأشخاص الذين يعيشون في مكان",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "all the people who live in a place",
+    "arabicScript": "جميع الأشخاص الذين يعيشون في مكان"
+  }, 
+   {
+    "text": "You can download things like books.",
+    "arabic": "يمكنك تنزيل أشياء مثل الكتب",
+    "image": "",
+    "audio": "audio/You can download things like books.mp3",
+    "audioScript": "You can download things like books",
+    "arabicScript": "يمكنك تنزيل أشياء مثل الكتب"
+  }, 
+  {
+    "text": "download",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "download",
+    "arabicScript": ""
+  }, 
+ 
+  {
+    "text": "to get data from another computer, usually using the internet",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "to get data from another computer, usually using the internet",
+    "arabicScript": ""
+  }, 
+   {
+    "text": "You can download things like books.",
+    "arabic": "يمكنك تنزيل أشياء مثل الكتب",
+    "image": "",
+    "audio": "audio/You can download things like books.mp3",
+    "audioScript": "You can download things like books",
+    "arabicScript": "يمكنك تنزيل أشياء مثل الكتب"
+  },
+   {
+    "text": "foreign language",
+    "arabic": "لغة أجنبية",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "foreign language",
+    "arabicScript": "لغة أجنبية"
+  }, 
+  {
+    "text": "words that people from a different country say and write",
+    "arabic": "كلمات يقولها ويكتبها الناس من بلد مختلف",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "words that people from a different country say and write",
+    "arabicScript": "كلمات يقولها ويكتبها الناس من بلد مختلف"
+  },
+  {
+    "text": "Do you like foreign languages?",
+    "arabic": "هل تعجبك اللغات الأجنبية؟",
+    "image": "",
+    "audio": "audio/Do you like foreign languages.mp3",
+    "audioScript": "Do you like foreign languages?",
+    "arabicScript": "هل تعجبك اللغات الأجنبية؟"
+  }, 
+  {
+    "text": "You can go to a foreign language chat room.",
+    "arabic": "يمكنك أن تذهب إلى غرفة دردشة للغة أجنبية",
+    "image": "",
+    "audio": "audio/You can go to a foreign language chat room.mp3",
+    "audioScript": "You can go to a foreign language chat room.",
+    "arabicScript": "يمكنك أن تذهب إلى غرفة دردشة للغة أجنبية"
+  }, 
+  
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+     {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+    {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }, 
+  {
+    "text": "",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "",
+    "arabicScript": ""
+  }
+
+
+  
+  
+  
+  
+]
